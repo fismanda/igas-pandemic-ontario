@@ -3,7 +3,7 @@ Fisman DN, Lee CE, Wilson NJ, Barton-Forbes M, Mann SK, Tuite AR
 Dalla Lana School of Public Health, University of Toronto
 
 Preprint: medRxiv [DOI TBD]
-Zenodo DOI: [INSERT ZENODO DOI]
+Zenodo DOI: DOI: 10.5281/zenodo.19098309
 
 Overview
 This repository contains analytic code for a 13-year population-based time-series study examining the association between SARS-CoV-2 activity and invasive group A streptococcal (iGAS) disease in central Ontario, Canada (2011–2024).
