@@ -3,6 +3,7 @@ Fisman DN, Lee CE, Wilson NJ, Barton-Forbes M, Mann SK, Tuite AR
 Dalla Lana School of Public Health, University of Toronto
 
 Preprint: medRxiv [DOI TBD]
+
 Zenodo DOI: DOI: 10.5281/zenodo.19098309
 
 Overview
